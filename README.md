@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=manoldonev&show_icons=true&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoldonev&layout=compact" />
-
+![](https://github-readme-stats.vercel.app/api?username=manoldonev&show_icons=true&count_private=true&hide=issues&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoldonev&layout=compact)
 
 <!--
 **manoldonev/manoldonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
